@@ -13,7 +13,7 @@ library(limma)       # For differential expression analysis
 
 
 # Set Working Directory
-setwd("C:/Users/Salome/Documents/MY PROJECTS/Asthma_Project")
+setwd("C:/Users/Caroline/Documents/MY PROJECTS/Asthma_Project")
 
 
 # Load GEO Dataset
